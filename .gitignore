@@ -8,6 +8,10 @@ __pycache__/
 
 # ARQUIVO TOKENS 
 config.py
+confirmar_preco.py
+verificar_preco.py
+voos.csv
+melhores_precos.csv
 
 # Distribution / packaging
 .Python
