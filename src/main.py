@@ -2,7 +2,7 @@
 import datetime
 import requests
 import csv
-from config import TOKEN
+from src.config import TOKEN
 
 
 def buscar_voo(local_partida, local_chegada, data_inicial, data_final):
